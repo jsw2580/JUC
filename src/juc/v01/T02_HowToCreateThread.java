@@ -1,4 +1,4 @@
-package juc.v1;
+package juc.v01;
 
 public class T02_HowToCreateThread {
     static class MyThread extends Thread {

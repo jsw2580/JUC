@@ -1,4 +1,4 @@
-package juc.v1;
+package juc.v01;
 
 public class T04_ThreadState {
 

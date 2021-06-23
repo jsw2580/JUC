@@ -1,4 +1,4 @@
-package juc.v1;
+package juc.v01;
 
 public class T03_Sleep_Yield_Join {
     public static void main(String[] args) {
